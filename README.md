@@ -1,6 +1,8 @@
 # Inteligência Artificial
 
 ## 📝 Artigos 
+- [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
+
 
 ## 🖥️ Cursos
 
@@ -11,6 +13,15 @@
 ## 📆 Eventos
 
 - [IA Conference Brasil](https://www.iaconferencebrasil.com.br/)
+
+
+## 🛠️ Ferramentas
+- [Gemini Code Assist Extensão para VS Code](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist)
+
+
+## 🌐 Guia de Carreira
+
+- [Tech Guide](https://techguide.sh/pt-BR/path/inteligencia-artificial/)
 
 
 ## 🤿 Imersões
@@ -31,9 +42,9 @@
 
 ## 🎧 Podcasts
 
-- [IA Sob Controle](https://www.iasobcontrole.tech/)
+- [IA Sob Controle](https://www.hipsters.network/podcasts/iasobcontrole)
 
 
 ## ▶️ Vídeos no YouTube
 
-- [Agentes de IA: o futuro já começou (e você pode criar o seu! por Dan Vitoriano)](https://www.youtube.com/watch?v=yR2ZjfZTng4)
+- [Agentes de IA: o futuro já começou (e você pode criar o seu!) por Dan Vitoriano](https://www.youtube.com/watch?v=yR2ZjfZTng4)
