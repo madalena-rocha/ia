@@ -1,3 +1,5 @@
+<img width="800" height="430" alt="gemini" src="https://github.com/user-attachments/assets/6e24d782-2b8c-4a66-9c83-67036db1372a" />
+
 # Inteligência Artificial
 
 ## 📝 Artigos 
