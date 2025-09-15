@@ -4,6 +4,7 @@
 
 ## 📝 Artigos 
 - [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
+- [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
 
 ## 🖥️ Cursos
@@ -50,3 +51,4 @@
 ## ▶️ Vídeos no YouTube
 
 - [Agentes de IA: o futuro já começou (e você pode criar o seu!) por Dan Vitoriano](https://www.youtube.com/watch?v=yR2ZjfZTng4)
+- [Playlist no YouTube - IAs Generativas | Alura](https://youtube.com/playlist?list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP&si=Bue0FUztIL4mynzm)
