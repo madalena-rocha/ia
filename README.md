@@ -25,6 +25,7 @@
 ## 🌐 Guia de Carreira
 
 - [Tech Guide](https://techguide.sh/pt-BR/path/inteligencia-artificial/)
+- [PLano de Estudo Alura | Estudos com IA](https://cursos.alura.com.br/estudos-com-ia-anamariasilva-1750857292515-p954220)
 
 
 ## 🤿 Imersões
