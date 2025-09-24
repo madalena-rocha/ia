@@ -8,13 +8,11 @@
 
 
 ## 🖥️ Cursos
-
 - Curso de IA [Módulo 1](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial/) e [Módulo 2](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial-modulo-02/) do Curso em Vídeo - Professor Gustavo Guanabara
 - [Escola de Inteligência Artificial da Alura](https://www.alura.com.br/escola-inteligencia-artificial)
 
 
 ## 📆 Eventos
-
 - [IA Conference Brasil](https://www.iaconferencebrasil.com.br/)
 
 
@@ -23,29 +21,41 @@
 
 
 ## 🌐 Guia de Carreira
-
 - [Tech Guide](https://techguide.sh/pt-BR/path/inteligencia-artificial/)
-- [PLano de Estudo Alura | Estudos com IA](https://cursos.alura.com.br/estudos-com-ia-anamariasilva-1750857292515-p954220)
+- [Plano de Estudo Alura | Estudos com IA](https://cursos.alura.com.br/estudos-com-ia-anamariasilva-1750857292515-p954220)
+  
 
+## Guia de Mergulho
+- [Imersão Dados com Python](https://grupoalura.notion.site/Imers-o-Dados-com-Python-Guia-de-Mergulho-226379bdd09b808ca2e3d4d95a56b1ce)
+
+## IAs
+- ClaudeAI
+- ChatGPT
+- Google Gemini
+- [Luri, a Inteligência Artificial da Alura](https://www.alura.com.br/luri-inteligencia-artificial)
+- Microsoft Copilot
+- Perplexity
 
 ## 🤿 Imersões
-
 - Imersão Dados com Python
 - Imersão Dev Agentes de IA
 
 
 ## 📚 Livros
-
 - [Livros de Inteligência Artificial da Casa do Código](https://www.casadocodigo.com.br/collections/inteligencia-artificial)
 
 
 ## 📨 Newsletters
-
 - [IA Sob Controle](https://conteudo.alura.com.br/newsletter-fora-de-controle)
 
 
-## 🎧 Podcasts
+## Para mulheres
+- [Eu Programo - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
+- [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
+- [Introdução à Inteligência Artificial | Mais mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
 
+
+## 🎧 Podcasts
 - [IA Sob Controle](https://www.hipsters.network/podcasts/iasobcontrole)
 
 
