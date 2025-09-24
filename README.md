@@ -25,10 +25,10 @@
 - [Plano de Estudo Alura | Estudos com IA](https://cursos.alura.com.br/estudos-com-ia-anamariasilva-1750857292515-p954220)
   
 
-## Guia de Mergulho
+## :bookmark_tabs: Guia de Mergulho
 - [Imersão Dados com Python](https://grupoalura.notion.site/Imers-o-Dados-com-Python-Guia-de-Mergulho-226379bdd09b808ca2e3d4d95a56b1ce)
 
-## IAs
+## :robot: IAs
 - ClaudeAI
 - ChatGPT
 - Google Gemini
@@ -40,7 +40,6 @@
 - Imersão Dados com Python
 - Imersão Dev Agentes de IA
 
-
 ## 📚 Livros
 - [Livros de Inteligência Artificial da Casa do Código](https://www.casadocodigo.com.br/collections/inteligencia-artificial)
 
@@ -50,7 +49,7 @@
 
 
 ## Para mulheres
-- [Eu Programo - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
+- [Eu Programo PrograMaria - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
 - [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
 - [Introdução à Inteligência Artificial | Mais mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
 
