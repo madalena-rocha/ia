@@ -7,6 +7,10 @@
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
 
+## ▶️ Canais no YouTube
+- [Programação Dinâmica](https://www.youtube.com/@pgdinamica)
+
+
 ## 🖥️ Cursos
 - Curso de IA [Módulo 1](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial/) e [Módulo 2](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial-modulo-02/) do Curso em Vídeo - Professor Gustavo Guanabara
 - [Escola de Inteligência Artificial da Alura](https://www.alura.com.br/escola-inteligencia-artificial)
@@ -28,6 +32,7 @@
 ## :bookmark_tabs: Guia de Mergulho
 - [Imersão Dados com Python](https://grupoalura.notion.site/Imers-o-Dados-com-Python-Guia-de-Mergulho-226379bdd09b808ca2e3d4d95a56b1ce)
 
+
 ## :robot: IAs
 - ClaudeAI
 - ChatGPT
@@ -37,6 +42,7 @@
 - Perplexity
 
 ## 🤿 Imersões
+- [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini-iii)
 - Imersão Dados com Python
 - Imersão Dev Agentes de IA
 
