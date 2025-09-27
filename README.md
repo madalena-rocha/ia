@@ -2,6 +2,8 @@
 
 # Inteligência Artificial
 
+> Este README serve como índice central e guia de navegação com tóicos relacionados a IA. 
+
 ## 📝 Artigos 
 - [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
@@ -69,3 +71,14 @@
 
 - [Agentes de IA: o futuro já começou (e você pode criar o seu!) por Dan Vitoriano](https://www.youtube.com/watch?v=yR2ZjfZTng4)
 - [Playlist no YouTube - IAs Generativas | Alura](https://youtube.com/playlist?list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP&si=Bue0FUztIL4mynzm)
+
+---
+
+## 🤝 Contribuindo
+
+Este repositório está em fase inicial de organização. Sinta-se à vontade para sugerir melhorias abrindo uma issue ou PR. 
+Objetivo: centralizar, documentar e evoluir projetos relacionados a Inteligência Artificial.
+
+---
+
+Se este README te ajudou, deixe uma estrela no repositório e favorite! ⭐
