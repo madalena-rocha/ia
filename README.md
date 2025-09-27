@@ -2,41 +2,49 @@
 
 # Inteligência Artificial
 
-> Este README serve como índice central e guia de navegação com tópicos relacionados a IA. 
+> Este README serve como índice central e guia de navegação com o objetivo de documentar e divulgar projetos relacionados a Inteligência Artificial.
 
 ## 📝 Artigos 
+
 - [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
 
 ## ▶️ Canais no YouTube
+
 - [Programação Dinâmica](https://www.youtube.com/@pgdinamica)
 
 
 ## 🖥️ Cursos
+
 - Curso de IA [Módulo 1](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial/) e [Módulo 2](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial-modulo-02/) do Curso em Vídeo - Professor Gustavo Guanabara
 - [Escola de Inteligência Artificial da Alura](https://www.alura.com.br/escola-inteligencia-artificial)
 - [Introdução à Inteligência Artificial | Mais Mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
 
 
 ## 📆 Eventos
+
 - [IA Conference Brasil](https://www.iaconferencebrasil.com.br/)
 
 
 ## 🛠️ Ferramentas
+
 - [Gemini Code Assist Extensão para VS Code](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist)
 
 
 ## 🌐 Guia de Carreira
+
 - [Tech Guide](https://techguide.sh/pt-BR/path/inteligencia-artificial/)
 - [Plano de Estudo Alura | Estudos com IA](https://cursos.alura.com.br/estudos-com-ia-anamariasilva-1750857292515-p954220)
   
 
 ## :bookmark_tabs: Guia de Mergulho
+
 - [Imersão Dados com Python](https://grupoalura.notion.site/Imers-o-Dados-com-Python-Guia-de-Mergulho-226379bdd09b808ca2e3d4d95a56b1ce)
 
 
 ## :robot: IAs
+
 - ClaudeAI
 - ChatGPT
 - Google Gemini
@@ -45,25 +53,30 @@
 - Perplexity
 
 ## 🤿 Imersões
+
 - [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini-iii)
 - Imersão Dados com Python
 - Imersão Dev Agentes de IA
 
 ## 📚 Livros
+
 - [Livros de Inteligência Artificial da Casa do Código](https://www.casadocodigo.com.br/collections/inteligencia-artificial)
 
 
 ## 📨 Newsletters
+
 - [IA Sob Controle](https://conteudo.alura.com.br/newsletter-fora-de-controle)
 
 
 ## Para mulheres
+
 - [Eu Programo PrograMaria - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
 - [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
 - [Introdução à Inteligência Artificial | Mais mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
 
 
 ## 🎧 Podcasts
+
 - [IA Sob Controle](https://www.hipsters.network/podcasts/iasobcontrole)
 
 
@@ -77,7 +90,7 @@
 ## 🤝 Contribuindo
 
 Este repositório está em fase inicial de organização. Sinta-se à vontade para sugerir melhorias abrindo uma issue ou PR. <br>
-Objetivo: centralizar, documentar e divulgar projetos relacionados a Inteligência Artificial.
+`#hacktoberfest`
 
 ---
 
