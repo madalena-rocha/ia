@@ -2,7 +2,7 @@
 
 # Inteligência Artificial
 
-> Este README serve como índice central e guia de navegação com tóicos relacionados a IA. 
+> Este README serve como índice central e guia de navegação com tópicos relacionados a IA. 
 
 ## 📝 Artigos 
 - [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
@@ -76,8 +76,8 @@
 
 ## 🤝 Contribuindo
 
-Este repositório está em fase inicial de organização. Sinta-se à vontade para sugerir melhorias abrindo uma issue ou PR. 
-Objetivo: centralizar, documentar e evoluir projetos relacionados a Inteligência Artificial.
+Este repositório está em fase inicial de organização. Sinta-se à vontade para sugerir melhorias abrindo uma issue ou PR. <br>
+Objetivo: centralizar, documentar e divulgar projetos relacionados a Inteligência Artificial.
 
 ---
 
