@@ -10,7 +10,7 @@
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
 
-## ▶️ Canais no YouTube
+## :fast_forward: Canais no YouTube
 
 - [Programação Dinâmica](https://www.youtube.com/@pgdinamica)
 
@@ -52,7 +52,7 @@
 - Microsoft Copilot
 - Perplexity
 
-## 🤿 Imersões
+## :computer: Imersões
 
 - [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini-iii)
 - Imersão Dados com Python
@@ -68,7 +68,7 @@
 - [IA Sob Controle](https://conteudo.alura.com.br/newsletter-fora-de-controle)
 
 
-## Para mulheres
+## :woman: Para mulheres
 
 - [Eu Programo PrograMaria - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
 - [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
@@ -80,7 +80,7 @@
 - [IA Sob Controle](https://www.hipsters.network/podcasts/iasobcontrole)
 
 
-## ▶️ Vídeos no YouTube
+## :fast_forward: Vídeos no YouTube
 
 - [Agentes de IA: o futuro já começou (e você pode criar o seu!) por Dan Vitoriano](https://www.youtube.com/watch?v=yR2ZjfZTng4)
 - [Playlist no YouTube - IAs Generativas | Alura](https://youtube.com/playlist?list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP&si=Bue0FUztIL4mynzm)
