@@ -20,6 +20,7 @@
 - Curso de IA [Módulo 1](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial/) e [Módulo 2](https://www.cursoemvideo.com/curso/curso-gratis-de-inteligencia-artificial-modulo-02/) do Curso em Vídeo - Professor Gustavo Guanabara
 - [Escola de Inteligência Artificial da Alura](https://www.alura.com.br/escola-inteligencia-artificial)
 - [Introdução à Inteligência Artificial | Mais Mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
+- [Cursos Microsoft Learn - IA](https://learn.microsoft.com/pt-br/training/browse/?subjects=artificial-intelligence)
 
 
 ## 📆 Eventos
