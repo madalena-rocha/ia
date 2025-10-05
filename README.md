@@ -55,7 +55,7 @@
 
 ## :computer: Imersões
 
-- [Imersão IA_](https://www.alura.com.br/imersao-ia-google-gemini-iii)
+- [Imersão IA_](https://alura.com.br/imersao-ia-google-gemini-iii?utm_source=stars&utm_medium=Ana_maria&utm_campaign=imersao-ia-google-gemini-iii_inscricoes)
 - Imersão Dados com Python
 - Imersão Dev Agentes de IA
 
