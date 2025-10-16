@@ -84,13 +84,14 @@
 - [Agentes de IA: o futuro já começou (e você pode criar o seu!) por Dan Vitoriano](https://www.youtube.com/watch?v=yR2ZjfZTng4)
 - [Playlist no YouTube - IAs Generativas | Alura](https://youtube.com/playlist?list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP&si=Bue0FUztIL4mynzm)
 
----
-
-## 🤝 Contribuindo
-
-Este repositório está em fase inicial de organização. Sinta-se à vontade para sugerir melhorias abrindo uma issue ou PR. <br>
-`#hacktoberfest`
 
 ---
 
-Se este README te ajudou, deixe uma estrela no repositório e favorite! ⭐
+## 🤝 Contribuições
+
+Acesse o arquivo `CONTRIBUTING.md`
+
+
+## ⭐ Favorite
+
+Se este README te ajudou, deixe uma estrela no repositório e favorite! 
