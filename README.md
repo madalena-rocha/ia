@@ -75,7 +75,7 @@
 - [Eu Programo PrograMaria - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
 - [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
 - [Introdução à Inteligência Artificial | Mais mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
-- [Lives sobre IA | {reprograma}](https://www.instagram.com/reel/DCRwVaGPsSG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [Lives sobre IA | {reprograma}](https://www.instagram.com/reel/DCRwVaGPsSG/)
 - [PrograMaria Sprint - IA Generativa](https://vamosjuntes.programaria.org/programaria-sprint-ia-generativa)
 
 
